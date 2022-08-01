@@ -24,3 +24,5 @@ After creating those, I would save them into excel files where I would have a be
 After importing the data, I created graphs of each of the data comparing the different coloumns.
 
 This allows a visualization of the data which allows an easier understanding of the data that has been discovered.
+
+By having a visualization out, we could see which one has a similar chart as well as look at numbers that allows a more percise finding.
